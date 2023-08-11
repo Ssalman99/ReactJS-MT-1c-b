@@ -1,0 +1,41 @@
+.course-list-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.DetailsContainer {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  margin-left: 40px;
+  box-shadow: 2px 2px 2px #e8e8e8;
+}
+
+.image {
+  width: 550px;
+  height: 450px;
+  margin-right: 20px;
+}
+.card {
+  padding: 20px;
+}
+
+.course-item-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.course-item-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 35px;
+}
